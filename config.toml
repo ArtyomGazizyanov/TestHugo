@@ -1,0 +1,5 @@
+baseURL = "https://artyomgazizyanov.github.io/HugoTest/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "book"
+disqusShortname = "my"
